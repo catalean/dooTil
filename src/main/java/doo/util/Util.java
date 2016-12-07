@@ -19,4 +19,5 @@ package doo.util;
  * @author Catalin Kormos
  */
 public class Util {
+    //empty for now
 }
