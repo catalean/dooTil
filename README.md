@@ -1,5 +1,6 @@
-# dooTil
-Object Oriented Utilities
+# Object Oriented Utilities
+
+Not yet released.
 
 This module is licenced under the the [Apache 2 Licence](https://www.apache.org/licenses/LICENSE-2.0.html).
 
